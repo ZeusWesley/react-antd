@@ -5,9 +5,9 @@ export default () => (
   <div className="App">
     <Row justify="center">
       <Col span="6">
-        <Card title="HOME PAGE">
+        <Card title="login page">
           <Button type="primary" style={{ marginLeft: 8 }}>
-            HOME PAGE
+            login page
           </Button>
         </Card>
       </Col>
